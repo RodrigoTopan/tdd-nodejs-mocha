@@ -1,6 +1,10 @@
 /*
     No codeship.com sincronizamos com nosso repositório para que sejam executados todos os tests a cada deploy
 
+    # Instalamos a versão 8 do node
+    nvm install 8
+    npm install
+    # Adicionamos o mocha como dependência
 */
 
 const { readFile } = require('fs');
