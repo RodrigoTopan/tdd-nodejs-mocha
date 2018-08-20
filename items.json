@@ -1,0 +1,14 @@
+{
+    "gender": "male",
+    "hair_color": "brown",
+    "height": "180",
+    "mass": "80",
+    "name": "Han Solo",
+    "skin_color": "fair",
+    "created": "2014-12-10T16:49:14.582000Z",
+    "edited": "2014-12-20T21:17:50.334000Z",
+    "starship": {
+        "name": "Millennium Falcon",
+        "model": "YT-1300 light freighter"
+    }
+}
