@@ -1,3 +1,8 @@
+/*
+    No codeship.com sincronizamos com nosso repositório para que sejam executados todos os tests a cada deploy
+
+*/
+
 const { readFile } = require('fs');
 const { join } = require('path');
 const { promisify } = require('util');
