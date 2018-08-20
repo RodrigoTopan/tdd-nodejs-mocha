@@ -1,6 +1,11 @@
 /*
     No codeship.com sincronizamos com nosso repositório para que sejam executados todos os tests a cada deploy
 
+    //No codeship.com
+    //adicionamos o mocha global (npm i -g mocha)
+    //Adicionamos a versão 8 do node, para não dar pau com o mocha
+    // nvm use 8
+    //Em setup commands
     # Instalamos a versão 8 do node
     nvm install 8
     npm install
